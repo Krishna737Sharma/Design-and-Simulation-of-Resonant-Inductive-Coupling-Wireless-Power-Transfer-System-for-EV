@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-Resonant-Inductive-Coupling-Wireless-Power-Transfer-System-for-EV
+This project explores the design, simulation, and analysis of a 5KW Resonant Inductive Wireless Power Transfer (WPT) system for Electric Vehicles (EVs). It integrates EVs with Medium Voltage DC (MVDC) networks, leveraging resonant circuit topologies to enhance the performance and efficiency of wireless inductive power transfer (IPT) systems.
