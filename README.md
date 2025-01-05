@@ -157,10 +157,5 @@ The simulation results are observed to be closely aligned with theoretical calcu
 
 From the above results, we can conclude that the theoretical calculations are verified by the simulation results for the low-power test bed.
 
-## References
-1. [Research Paper 1]
-2. [Research Paper 2]
-3. [Research Paper 3]
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
